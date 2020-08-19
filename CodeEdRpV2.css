@@ -6,6 +6,11 @@ cadreRp {
 
 }
 
+	youtubeRP {
+		display: inline;
+		border : 1px lightgrey solid;
+	}
+
 	texteRp {
 		display: block;
 		padding: 5%;
