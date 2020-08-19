@@ -6,14 +6,20 @@ FOND {
 }
 
 TITRE {
-	display:block;margin-left: 25px;margin-right: auto; 
+	display:block;
+	height:70px; 
+	margin-left: 25px; margin-right: auto; 
 	background-repeat:no-repeat; background-size: 95%; 
 	background-image:url("https://www.zupimages.net/up/19/42/uvxa.png");
-	eight:70px; 
+	
 }
 
 TEXTE {
-	display: block; padding: 20px 52px 25px; text-align: justify; font-size: 14px; color: #888;font-variant: small-caps;}
+	display: block; 
+	padding: 20px 52px 25px; 
+	text-align: justify;  color: #888;
+	font-variant: small-caps; font-size: 14px;
+}
 
 ED {
 	display:inline; color:#AB0000;}
