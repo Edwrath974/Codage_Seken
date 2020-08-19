@@ -8,17 +8,23 @@ cadreRp {
 
 }
 
+	titreRp {
+		display: block;
+		font-size: 5em; color: #AB0000;
+		font-family: Marker Felt, fantasy;
+	}
+
 	texteRp {
 		display: block;
-		padding: 7.5%;
+		padding: 7%;
 		color: #999; 
 		text-align: justify;
-		font-size: 1.2em;
+		font-size: 1.15em;
 		font-variant: small-caps;
 	}
 
 		ed {
-			display: inline; color: #AB0000;	
+			display: inline; color: #AB0000;
 		}
 
 		lilith {
