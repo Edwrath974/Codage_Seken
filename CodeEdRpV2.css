@@ -32,7 +32,7 @@ cadreRp {
 	}
 
 		ed {
-			display: inline; color: #AB0000; padding: 0em 1.5em 0em 1.5em;
+			display: block; color: #AB0000; padding: 0em 1.5em 0em 1.5em;
 		}
 
 		lilith {
@@ -40,7 +40,7 @@ cadreRp {
 		}
 
 		josh {
-			display:inline; color:#196621;
+			display: inline; color:#196621;
 		}
 
 		helly {
