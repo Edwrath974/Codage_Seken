@@ -1,4 +1,15 @@
-EdFond {
-	width: 75%; height: auto;
-	border: 2px solid darkgreen;
+cadreRp {
+	display: block;
+	width: 90%;
+	margin: auto;
+	background-color: #171717;
+
 }
+
+	texteRp {
+		display: block;
+		padding: 5%;
+		color: lightgrey; 
+		text-align: justify;
+		font-variant: small-caps;
+	}
