@@ -16,3 +16,43 @@ cadreRp {
 		font-size: 1.2em;
 		font-variant: small-caps;
 	}
+
+		ed {
+			display: inline; color: #AB0000;	
+		}
+
+		lilith {
+			display: inline; color: darkgreen;
+		}
+
+		josh {
+			display:inline; color:#196621;
+		}
+
+		helly {
+			display:inline; color:#77AA77;
+		}
+
+		norton {
+			display:inline; color:orange;
+		}
+
+		civil {
+			display:inline; color:#DDDDDD;
+		}
+
+		hll {
+			display:inline; color:#800080;
+		}
+
+		gm {
+			display:inline; color:#3399ff;
+		}
+
+		sinclair {
+			display:inline; color:#DD985C;
+		}
+
+		wife {
+			display:inline; color:pink;
+		}
