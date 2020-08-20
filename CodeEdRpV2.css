@@ -9,7 +9,7 @@ cadreRp {
 }
 
 	titreRp {
-		display: block;
+		display: inline-block;
 		padding : 5%; margin-top: 5%;
 		font-size: 3.8em; color: #890000; 
 		font-family: "Kerberos"; font-style: italic;
@@ -31,42 +31,46 @@ cadreRp {
 		font-variant: small-caps;
 	}
 
-		ed {
-			display: block; color: #AB0000; padding: 0em 1.5em 0em 1.5em;
+		paroles {
+			display: inline-block; color: white; padding: 0em 2em 0em 2em;
 		}
 
-		lilith {
-			display: inline; color: darkgreen;
-		}
+			.ed {
+				color: #AB0000;
+			}
 
-		josh {
-			display: inline; color:#196621;
-		}
+			lilith {
+				display: inline-block; color: darkgreen; padding: 0em 2em 0em 2em;
+			}
 
-		helly {
-			display: inline; color: #77AA77; text-indent: 3em;
-		}
+			josh {
+				display: inline-block; color:#196621; padding: 0em 2em 0em 2em;
+			}
 
-		norton {
-			display:inline; color:orange;
-		}
+			.helly {
+				color: #77AA77;
+			}
 
-		civil {
-			display:inline; color:#DDDDDD;
-		}
+			norton {
+				display: inline-block; color:orange; padding: 0em 2em 0em 2em;
+			}
 
-		hll {
-			display:inline; color:#800080;
-		}
+			civil {
+				display: inline-block; color:#DDDDDD; padding: 0em 2em 0em 2em;
+			}
 
-		gm {
-			display:inline; color:#3399ff;
-		}
+			hll {
+				display: inline-block; color:#800080; padding: 0em 2em 0em 2em;
+			}
 
-		sinclair {
-			display:inline; color:#DD985C;
-		}
+			gm {
+				display: inline-block; color:#3399ff; padding: 0em 2em 0em 2em;
+			}
 
-		wife {
-			display:inline; color:pink;
-		}
+			sinclair {
+				display: inline-block; color:#DD985C; padding: 0em 2em 0em 2em;
+			}
+
+			wife {
+				display: inline-block; color:pink; padding: 0em 2em 0em 2em;
+			}
