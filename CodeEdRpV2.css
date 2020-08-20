@@ -31,7 +31,7 @@ cadreRp {
 		font-variant: small-caps;
 	}
 
-		paroles {
+		.paroles {
 			display: inline-block; color: white; padding: 0em 2em 0em 2em;
 		}
 
@@ -39,38 +39,38 @@ cadreRp {
 				color: #AB0000;
 			}
 
-			lilith {
-				display: inline-block; color: darkgreen; padding: 0em 2em 0em 2em;
+			.lilith {
+				color: darkgreen;
 			}
 
-			josh {
-				display: inline-block; color:#196621; padding: 0em 2em 0em 2em;
+			.josh {
+				color:#196621;
 			}
 
 			.helly {
 				color: #77AA77;
 			}
 
-			norton {
-				display: inline-block; color:orange; padding: 0em 2em 0em 2em;
+			.norton {
+				color:orange;
 			}
 
-			civil {
-				display: inline-block; color:#DDDDDD; padding: 0em 2em 0em 2em;
+			.civil {
+				color:#DDDDDD;
 			}
 
-			hll {
-				display: inline-block; color:#800080; padding: 0em 2em 0em 2em;
+			.hll {
+				color:#800080;
 			}
 
-			gm {
-				display: inline-block; color:#3399ff; padding: 0em 2em 0em 2em;
+			.gm {
+				color:#3399ff;
 			}
 
-			sinclair {
-				display: inline-block; color:#DD985C; padding: 0em 2em 0em 2em;
+			.sinclair {
+				color:#DD985C;
 			}
 
-			wife {
-				display: inline-block; color:pink; padding: 0em 2em 0em 2em;
+			.wife {
+				color:pink;
 			}
