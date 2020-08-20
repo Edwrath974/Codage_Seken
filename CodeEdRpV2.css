@@ -9,29 +9,36 @@ cadreRp {
 }
 
 	titreRp {
-		display: inline-block;
-		padding : 5%; margin-top: 5%;
+		display: inline-block; width: 90%;
+		margin: 7% 5% 5% 5%;
+		text-align: center;
 		font-size: 3.8em; color: #890000; 
 		font-family: "Kerberos"; font-style: italic;
-		text-shadow: 0.08em 0.08em 0em black;
+		text-shadow: 0.08em 0.08em 0em black; 
 	}
 
-	@font-face {
-	     font-family: "Kerberos";
-	     src: url("https://edwrath974.github.io/Codage_Seken/font/Kerberos_Fang.ttf");
-	     font-weight: bold;
-	}
+		@font-face {
+		     font-family: "Kerberos";
+		     src: url("https://edwrath974.github.io/Codage_Seken/font/Kerberos_Fang.ttf");
+		     font-weight: bold;
+		}
+
+	.separation {
+		display: inline-block; 
+		width: 20%;
+		margin : 1.25em auto 1.25em 40%;
+		border: 1px solid #777;
 
 	.lecteurYT-Ed {
 		display: block;
 		width: 55%;
-		margin: auto;
-		box-shadow: 0px 0px 18px #450000;
+		margin : 1.25em auto 1.25em auto;
+		box-shadow: 0px 0px 30px #000000;
 	}
 
 	texteRp {
 		display: block;
-		padding: 7%;
+		padding : 0% 7% 7% 7%;
 		color: #999; 
 		text-align: justify;
 		font-size: 1.15em;
