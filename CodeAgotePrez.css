@@ -70,11 +70,12 @@ motifCadreTitre {
 }
 
 motifCadreTexte {
-	width: 40%; height: 30px;
+	width: 50%; height: 30px;
 	float: right; padding-bottom: 30px;
 	border-top: 5px solid #ecd900;
 	background-color: #f5efdd;
-	background-image: url(https://media.discordapp.net/attachments/381390001658658816/745295529356951614/kkiete_rec.png?width=720&height=28); background-repeat: no-repeat;
+	background-image: url(https://cdn.discordapp.com/attachments/381390001658658816/752473593690062858/Petites_Dentelle_presentation.png);
+	background-repeat: no-repeat;
 }
 
 cadreInfosPerso {
