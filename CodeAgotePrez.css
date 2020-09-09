@@ -43,6 +43,7 @@ cadreTitre {
 	titreImg {
 		width: 110px; height: 110px;
 		margin-right: 20%;
+		background-size: cover;
 		background-image: url(https://media.discordapp.net/attachments/381390001658658816/745292370366562304/kkuete100.jpg); 
 		border-radius: 100%; border: solid 5px #ffe220;
 	}
@@ -51,6 +52,7 @@ cadreTitre {
 		width: 60px; height: 60px;
 		float: left; z-index: 1;
 		margin: 35% -20% 0% 0%; /*H-D-B-G*/
+		background-size: cover;
 		background-image: url(https://media.discordapp.net/attachments/381390001658658816/745292370366562304/kkuete100.jpg);
 		border-radius: 100%; border: solid 5px #ffe220;
 	}
@@ -74,7 +76,7 @@ motifCadreTexte {
 	float: right; padding-bottom: 30px;
 	border-top: 5px solid #ecd900;
 	background-color: #f5efdd;
-	background-image: url(https://cdn.discordapp.com/attachments/381390001658658816/752473593690062858/Petites_Dentelle_presentation.png);
+	background-image: url(https://media.discordapp.net/attachments/381390001658658816/753196626654527518/Agote_Test.png);
 	background-repeat: no-repeat;
 }
 
@@ -121,7 +123,8 @@ cadreCategorie {
 		display: inline-flex;
 		width: 90%; height: 80%; z-index: 3;
 		margin : 8%;
-		border-radius: 8%; border : 4px solid #5f543d;
+		border-radius: 8%; border: 4px solid #5f543d;
+		background-size: cover;
 	}
 
 	titreCategorie {
