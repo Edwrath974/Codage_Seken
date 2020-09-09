@@ -4,7 +4,6 @@ display: flex;
 align-items: center; justify-content: center;
 width:600px; height: auto;
 margin:auto;
-border: 1px none red; background: none;
 box-shadow:0px 0px 3px black; 
 }
 
@@ -20,7 +19,6 @@ cadreTitre {
 	align-items: center;
 	width: 60%; height: 180px;
 	float: left;
-	border: 0px solid green;
 	background-color: #fffde8;
 }
 
