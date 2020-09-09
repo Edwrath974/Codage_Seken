@@ -11,6 +11,7 @@ box-shadow:0px 0px 3px black;
 fondFiche {
 width: 100%; height: 1370px;
 /*margin: 2% 2% 2% 2%; /*H-D-B-G*/
+background-color: #f5efdd;
 border: 1px solid none;
 }
 
@@ -54,10 +55,23 @@ cadreTitre {
 		border-radius: 100%; border: solid 5px #ffe220;
 	}
 
+bordel {
+	width: 100%; height: 30px;
+	border-top: 5px solid #ecd900;
+	background-color: black;
+}
 
-miniBaniere {
+motifCadreTitre {
 	width: 100%; height: 30px;
 	float: left; padding-bottom: 30px;
+	border-top: 5px solid #ecd900;
+	background-color: #f5efdd; background-repeat: no-repeat;
+	background-image: url(https://media.discordapp.net/attachments/381390001658658816/745295529356951614/kkiete_rec.png?width=720&height=28); 
+}
+
+motifCadreTexte {
+	width: 40%; height: 30px;
+	float: right; padding-bottom: 30px;
 	border-top: 5px solid #ecd900;
 	background-color: #f5efdd;
 	background-image: url(https://media.discordapp.net/attachments/381390001658658816/745295529356951614/kkiete_rec.png?width=720&height=28); background-repeat: no-repeat;
