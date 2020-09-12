@@ -8,7 +8,7 @@ box-shadow:0px 0px 3px black;
 }
 
 fondFiche {
-width: 100%; height: 1460px;
+width: 100%; height: 1510px;
 /*margin: 2% 2% 2% 2%; /*H-D-B-G*/
 background-color: #f5efdd;
 border: 1px solid none;
@@ -55,12 +55,6 @@ cadreTitre {
 		border-radius: 100%; border: solid 5px #ffe220;
 	}
 
-bordel {
-	width: 100%; height: 30px;
-	border-top: 5px solid #ecd900;
-	background-color: black;
-}
-
 motifCadreTitre {
 	width: 100%; height: 30px;
 	float: left; padding-bottom: 30px;
@@ -80,27 +74,22 @@ motifCadreTexte {
 
 cadreInfosPerso {
 	display: flex;
+	width: 90%; height: 180px;
+	margin: auto;
 	align-items: center; justify-content: center;
-	width: 100%; height: 180px;
-	float: left; padding-top: 
-	border: 0px solid green;
 	background-color: #f5efdd;
+
+	border: 2px solid green;
 }
 
 	txtInfosPerso {
-		width: 100%; height: 100%;
 		-webkit-columns:2; /* Opera, Safari, Google Chrome */
 	    -moz-columns: 2; /* Firefox */
-	    columns: 2 ; /* Internet Explorer */
+	    columns: 2; /* Internet Explorer */
 	    font-size: 15px; 
 		font-family: Baskerville Old Face;
-	    border: none 2px purple; 
+	    border: solid 2px purple; 
 
-	}
-
-	li {
-		list-style-type : none;
-		margin-bottom: 3px;
 	}
 
 cadreCategorie {
