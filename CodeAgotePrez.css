@@ -79,7 +79,7 @@ cadreInfosPerso {
 	align-items: center; justify-content: center;
 	background-color: #f5efdd;
 
-	border: 2px solid green;
+	border: 2px dotted green;
 }
 
 	txtInfosPerso {
