@@ -86,9 +86,9 @@ cadreInfosPerso {
 		-webkit-columns:2; /* Opera, Safari, Google Chrome */
 	    -moz-columns: 2; /* Firefox */
 	    columns: 2; /* Internet Explorer */
+	    padding: 5px;
 	    font-size: 15px; 
 		font-family: Baskerville Old Face;
-	    border: none 2px purple; 
 
 	}
 
