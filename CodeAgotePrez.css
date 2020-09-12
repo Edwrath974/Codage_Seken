@@ -78,17 +78,17 @@ cadreInfosPerso {
 	margin: auto;
 	align-items: center; justify-content: center;
 	background-color: #f5efdd;
-
-	border: 2px dotted green;
+	border: none 2px green;
 }
 
 	txtInfosPerso {
+		width: 100%
 		-webkit-columns:2; /* Opera, Safari, Google Chrome */
 	    -moz-columns: 2; /* Firefox */
 	    columns: 2; /* Internet Explorer */
 	    font-size: 15px; 
 		font-family: Baskerville Old Face;
-	    border: solid 2px purple; 
+	    border: none 2px purple; 
 
 	}
 
