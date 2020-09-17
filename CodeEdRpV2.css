@@ -45,7 +45,8 @@ cadreRp_Ed {
 		}
 
 		.paroles {
-			display: inline-block; color: white; padding: 0em 2em 0em 2em;
+			display: inline-block; color: white; 
+			padding: 0em 1.5em 0em 1.5em;
 		}
 
 			.ed {
