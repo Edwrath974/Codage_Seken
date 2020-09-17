@@ -14,15 +14,22 @@ cadreRp_Ed {
 		margin: 0% 5% 5% 0%;
 		text-align: left;
 		font-size: 3.8em; color: #890000; 
-		font-family: "Kerberos"; font-style: italic;
+		font-family: "Ancherr"; font-style: italic;
 		text-shadow: 0.08em 0.08em 0em black; 
 	}
 
 		@font-face {
-		     font-family: "Kerberos";
-		     src: url("font/Ancherr.otf");
+		     font-family: "Ancherr";
+		     src: url("font/Ancherr-Personal-Use.otf");
 		     font-weight: bold;
 		}
+
+	jrErika_Ed {
+		display: block;
+		width: 50%; height: 22%; margin: auto;
+		background-image: url("images/jrErika.png");
+		background-repeat: no-repeat; background-size: cover;
+	}
 
 	texteRp_Ed {
 		display: block;
@@ -31,6 +38,11 @@ cadreRp_Ed {
 		font-variant: small-caps;
 		
 	}
+		texteInfos_Ed {
+			display: block;
+			margin: 2em 0 2em 0;
+			text-align: right;
+		}
 
 		.paroles {
 			display: inline-block; color: white; padding: 0em 2em 0em 2em;
