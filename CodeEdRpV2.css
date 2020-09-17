@@ -26,8 +26,8 @@ cadreRp_Ed {
 
 	jrErika_Ed {
 		display: block;
-		width: 50%; height: 22%; margin: auto;
-		background-image: url("images/jrErika.png");
+		width: 250px; height: 235px; margin: 1em auto -180px auto;
+		background-image: url("images/jrErika_rndr.png");
 		background-repeat: no-repeat; background-size: cover;
 	}
 
@@ -40,13 +40,13 @@ cadreRp_Ed {
 	}
 		texteInfos_Ed {
 			display: block;
-			margin: 2em 0 2em 0;
+			margin-top: 2em;
 			text-align: right;
 		}
 
 		.paroles {
 			display: inline-block; color: white; 
-			padding: 0em 1.5em 0em 1.5em;
+			padding: 0em 1.75em 0em 1.75em;
 		}
 
 			.ed {
