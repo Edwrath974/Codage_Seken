@@ -24,19 +24,13 @@ cadreRp_Ed {
 		     font-weight: bold;
 		}
 
-	.separation_Ed {
-		width: 8%;
-		margin: 2em 0em 2em 46%;
-		border: 1px #777 solid; align-self: center;
-	}
-
 	texteRp_Ed {
+		display: block;
 		color: #999; text-align: justify;
 		font-family: Tahoma; font-size: 14px;
 		font-variant: small-caps;
 		
 	}
-
 
 		.paroles {
 			display: inline-block; color: white; padding: 0em 2em 0em 2em;
