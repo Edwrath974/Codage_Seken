@@ -1,0 +1,36 @@
+.fondFiche {
+	width: 800px; height: 1000px; 
+	margin-top: 25%;
+	background-color: #171717;
+	padding: 2%; 
+}
+
+/*.cadreDrapeauEd {
+	width: 45%; height: 40%;
+	margin-top: -26%; margin-left: auto; margin-right: auto;
+}*/
+
+.imgDrapeauEd {
+	width: 42.2%; height: 33.8%;
+	margin: -26% auto 0% auto;
+	background-image: url(https://media.discordapp.net/attachments/381390001658658816/750076631820796034/unknown.png);
+	background-repeat: no-repeat; background-position: center;
+	background-size : contain;
+	-moz-border-radius : 50%;
+	-webkit-border-radius : 50%;
+	border-radius : 50%; 
+	box-shadow: 0em 0em 1em black; 
+
+}
+
+
+.cadre2 {
+
+	height: 25%;
+	background-color: green;
+}
+
+.titreCategorie {
+	height: 2em;
+	background-color: #CCC;
+}
