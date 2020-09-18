@@ -22,7 +22,15 @@ cadreDrapeau {
 	}
 	.imgDrapeauHide {
 		width: auto ; height: 105%;
-		background-image: url("images/jrEd_borderhide_blk.png");
+		background-image: url("https://edwrath974.github.io/Codage_Seken/images/jrEd_borderhide_blk.png");
+		background-repeat: no-repeat; background-position: center;
+		background-size : contain;
+	}
+
+		.imgDrapeauHide:hover {
+			display: block;
+		width: auto ; height: 105%;
+		background-image: url("https://edwrath974.github.io/Codage_Seken/images/jrEd_border.png");
 		background-repeat: no-repeat; background-position: center;
 		background-size : contain;
 	}
