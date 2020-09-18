@@ -1,36 +1,60 @@
 .fondFiche {
-	width: 800px; height: 1000px; 
-	margin-top: 25%;
-	background-color: #171717;
-	padding: 2%; 
+	display: block;
+	width: 500px; /*height: 1000px; */
+	margin: 5% auto 0 auto;
+	border-radius: 1px; 
+	box-shadow: 0px 0px 3px black;
+	background-color: #222222;
+	padding: 1.5em; 
 }
 
-/*.cadreDrapeauEd {
-	width: 45%; height: 40%;
-	margin-top: -26%; margin-left: auto; margin-right: auto;
-}*/
-
-.imgDrapeauEd {
-	width: 42.2%; height: 33.8%;
-	margin: -26% auto 0% auto;
-	background-image: url(https://media.discordapp.net/attachments/381390001658658816/750076631820796034/unknown.png);
-	background-repeat: no-repeat; background-position: center;
-	background-size : contain;
-	-moz-border-radius : 50%;
-	-webkit-border-radius : 50%;
-	border-radius : 50%; 
-	box-shadow: 0em 0em 1em black; 
-
+cadreDrapeau {
+	display: block;
+	width: 100%; height: 400px;
+	margin: -1.3em auto 0 auto;
 }
 
+	.imgDrapeauEd {
+		width: auto ; height: 105%;
+		background-image: url("https://edwrath974.github.io/Codage_Seken/images/jrEd_blackborder.png");
+		background-repeat: no-repeat; background-position: center;
+		background-size : contain;
+	}
+	.imgDrapeauHide {
+		width: auto ; height: 105%;
+		background-image: url("images/jrEd_borderhide_blk.png");
+		background-repeat: no-repeat; background-position: center;
+		background-size : contain;
+	}
 
-.cadre2 {
-
-	height: 25%;
-	background-color: green;
+bigTitre {
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 5.8em; color: #890000; 
+	font-family: "Ancherr"; font-style: italic;
+	text-shadow: 0.08em 0.08em 0em black; 
 }
 
-.titreCategorie {
-	height: 2em;
-	background-color: #CCC;
+	@font-face {
+	 font-family: "Ancherr";
+	 src: url("font/Ancherr-Personal-Use.otf");
+	 font-weight: bold;
+	}
+
+titreCategorie {
+	display: block; width: 550px;
+	margin: 1.5em 0 0 -1em;
+	font-size: 25px; text-align: center;
+	font-variant: small-caps; font-family: Tahoma; 
+	color: black; background-color: #CCC;
+	
+}
+
+texte {
+	display: block;
+	margin: 2em auto 0 auto;
+	font-size: 14px; text-align: justify;
+	font-variant: small-caps; font-family: Tahoma; 
+	color: #999;
 }
