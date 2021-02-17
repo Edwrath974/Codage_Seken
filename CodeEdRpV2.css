@@ -31,6 +31,13 @@ cadreRp_Ed {
 		background-repeat: no-repeat; background-size: cover;
 	}
 
+	marineflag_Ed {
+		display: block;
+		width: 250px; height: 235px; margin: 1em auto -180px auto;
+		background-image: url("https://edwrath974.github.io/Codage_Seken/images/marineflag_Ed.png");
+		background-repeat: no-repeat; background-size: cover;
+	}
+
 	jrEd_blackborder {
 		display: block;
 		width: 250px; height: 235px; margin: 1em auto -180px auto;
@@ -65,7 +72,7 @@ cadreRp_Ed {
 			}
 
 			.josh {
-				color:#196621;
+				color:#ccccff;
 			}
 
 			.helly {
