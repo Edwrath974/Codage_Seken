@@ -76,15 +76,19 @@ cadreRp_Ed {
 			}
 
 			.helly {
-				color: #77AA77;
+				color:#77AA77;
 			}
 
-			.marorn {
-				color: #ffffcc;
+			.pregwich {
+				color:#ffffcc;
 			}
 
 			.norton {
 				color:orange;
+			}
+
+			.orange {
+				color:#DD985C;
 			}
 
 			.civil {
@@ -97,10 +101,6 @@ cadreRp_Ed {
 
 			.gm {
 				color:#3399ff;
-			}
-
-			.orange {
-				color:#DD985C;
 			}
 
 			.wife {
