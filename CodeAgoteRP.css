@@ -1,0 +1,7 @@
+cadreRp_Agote {
+	display: flex;
+	align-items: center; justify-content: center;
+	width:600px; height: auto;
+	margin:auto;
+	box-shadow:0px 0px 3px black; 
+}
