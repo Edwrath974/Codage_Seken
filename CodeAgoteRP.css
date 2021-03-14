@@ -8,3 +8,18 @@ cadreRp_Agote {
 	background-color: #f5efdd;
 	border: 1px solid none;
 }
+
+cadreTitre_Agote {
+	background-color: red;
+	border: 1px solid none;
+}
+
+cadreInfos_Agote {
+	background-color: blue;
+	border: 1px solid none;
+}
+
+cadreTexte_Agote {
+	background-color: green;
+	border: 1px solid none;
+}
